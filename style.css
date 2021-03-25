@@ -52,6 +52,12 @@ body {
   width: 500px;
 }
 
+/* History page */
+
+.history-section {
+  margin: auto;
+  text-align: center;
+}
 footer {
   text-align: center;
   padding: 3px;
