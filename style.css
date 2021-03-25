@@ -31,3 +31,23 @@ body {
   padding: 14px 20px;
   text-decoration: none;
 }
+
+.middle-section {
+  background-color: #523873;
+  border: 1px solid #000;
+  padding: 0.5rem;
+  display: flex;
+}
+
+#summary-left,
+#summary-right {
+  background-color: rgba(10, 10, 10, 0.5);
+  border: 1px solid #fff;
+  padding: 0.5rem;
+  flex-grow: 1;
+  color: #fff;
+}
+
+.doumo-img {
+  width: 500px;
+}
