@@ -21,8 +21,6 @@ body {
   text-align: center;
   overflow: hidden;
   background-color: rgb(129, 125, 125);
-  /* position: sticky;
-  position: -webkit-sticky; */
   top: 0;
 }
 
