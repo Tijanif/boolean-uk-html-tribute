@@ -51,3 +51,10 @@ body {
 .doumo-img {
   width: 500px;
 }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(129, 125, 125);
+  color: white;
+}
